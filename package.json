@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/marshallswain/feathers",
   "dependencies": {
-    "amity-mongodb": "^0.0.6"
+    "amity-mongodb": "^0.0.7"
   },
   "readmeFilename": "README.md"
 }
